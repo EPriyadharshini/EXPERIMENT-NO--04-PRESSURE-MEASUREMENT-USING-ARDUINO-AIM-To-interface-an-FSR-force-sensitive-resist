@@ -122,7 +122,7 @@ void loop()
  
 
 
-
+TABLE:
 
 
 
@@ -139,6 +139,10 @@ void loop()
 
 
 
+
+
+
+GRAPH:
 
 
 
