@@ -64,9 +64,10 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 ### FIGURE-03 CIRCUIT DIAGRAM
 
-![Screenshot 2024-02-29 114211](https://github.com/EzhilsreeJ/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144870412/485491b1-6625-44a5-b5a0-5b6d58f06c14)
+<img width="673" alt="image" src="https://github.com/EPriyadharshini/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144870831/947e1bce-5057-49fb-9bb9-cb65347a96d5">
 
-![image](https://github.com/EzhilsreeJ/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144870412/03f271e7-b7ac-43d8-99a4-f8bd039a95a3)
+
+<img width="473" alt="image" src="https://github.com/EPriyadharshini/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144870831/0025dd97-ee33-4b64-9020-dc0cb58f36cc">
 
 
 ### PROCEDURE:
@@ -127,15 +128,8 @@ TABLE:
 
 
 
-
-
-
  
 <img width="371" alt="image" src="https://github.com/laxman2054/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/118680826/f22ad5d6-9257-469e-ac98-47c337346aa8">
-
-
-
-
 
 
 
@@ -150,18 +144,11 @@ GRAPH:
 
 
  
-
 <img width="427" alt="image" src="https://github.com/laxman2054/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/118680826/395eac4c-45cd-4b28-ad42-53fe7feffc7d">
 
 
 
 
-
-
-
-
-
- 
 
 
 ### Population Standard Deviation
@@ -180,15 +167,6 @@ EX:
 μ = (2+3+4+5+6+7+8+8+9+10) / 10 = 6.2      
 σ = √[(1.05-6.2)2 + (2.02-6.2)2 + ... + (10-6.2)2)]/10
 σ = √(26.5225+17.4724+9.6721+....+14.44)/10 = 0.92
-
-
-
-
-
-
-
-
-
 
 
 
