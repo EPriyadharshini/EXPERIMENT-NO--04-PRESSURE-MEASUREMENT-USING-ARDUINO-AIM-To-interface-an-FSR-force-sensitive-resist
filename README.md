@@ -120,22 +120,44 @@ void loop()
  
  ### TABLE -02 standard deviation table 
  
- 
- 
- 
- 
- ![Screenshot 2024-02-29 183557](https://github.com/EzhilsreeJ/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144870412/e98bdf8a-69b7-455a-a65d-455cd9e1d111)
-
- 
- 
- 
- 
- 
-![Screenshot 2024-02-29 182135](https://github.com/EzhilsreeJ/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144870412/e539e890-40b9-468a-907d-53b4cf7e332e)
 
 
 
 
+
+
+
+
+
+
+ 
+<img width="371" alt="image" src="https://github.com/laxman2054/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/118680826/f22ad5d6-9257-469e-ac98-47c337346aa8">
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<img width="427" alt="image" src="https://github.com/laxman2054/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/118680826/395eac4c-45cd-4b28-ad42-53fe7feffc7d">
+
+
+
+
+
+
+
+
+
+ 
 
 
 ### Population Standard Deviation
