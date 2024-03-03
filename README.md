@@ -3,7 +3,7 @@
 # DATE :28/02/2024
 # NAME :E.PRIYADHARSHHINI
 # ROLLNUMBER :212223230159
-# DEPARTMENT:B.TECH (AIDS)
+# DEPARTMENT:B.TECH (AIDS) (1ST year)
 
 ## AIM: 
 To interface an FSR(force sensitive resistor) and scale the output voltage obtained to pressure applied 
@@ -83,12 +83,7 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 
 ### PROGRAM 
- NAME: EZHIL SREE J
- 
- ROLL NO:212223230056
- 
- DEPT AND YEAR: AIDS(1st Year)
- 
+
  ```
 int fsr;
 int LED = 7;
